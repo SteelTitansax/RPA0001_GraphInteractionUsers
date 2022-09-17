@@ -6691,15 +6691,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\titansax\\.nuget\\packages\\": {}
+    "C:\\Users\\manue\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "GraphInteractionExercise",
       "projectName": "GraphInteractionExercise",
-      "projectPath": "C:\\Users\\titansax\\Documents\\UiPath\\RPA0001_GraphInteractionUsers\\.local",
-      "packagesPath": "C:\\Users\\titansax\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\titansax\\Documents\\UiPath\\RPA0001_GraphInteractionUsers\\.local"
+      "projectPath": "C:\\Users\\manue\\Documents\\UiPath\\RPA0001_GraphInteractionUsers\\.local",
+      "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manue\\Documents\\UiPath\\RPA0001_GraphInteractionUsers\\.local"
     },
     "frameworks": {
       "net461": {
@@ -6730,7 +6730,7 @@
             "version": "[1.11.1, 1.11.1]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\titansax\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\manue\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
